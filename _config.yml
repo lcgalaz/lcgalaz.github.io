@@ -1,0 +1,15 @@
+title: Luisa Camila Galaz Carrillo
+description: Research economist at Banco de México. Business and financial cycles, monetary and macroprudential policy, and distributional effects of macroeconomic shocks in Mexico.
+
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+
+# Deployment / URLs
+url: https://lcgalaz.github.io
+baseurl: ""
+
+# Sidebar nav — order is by front-matter `order` in each page.
