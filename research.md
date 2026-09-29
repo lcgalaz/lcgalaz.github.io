@@ -83,6 +83,38 @@ Media: [El Colegio de México roundtable series](https://www.youtube.com/playlis
 
 </div>
 
+<div class="paper" markdown="1">
+**The Modern Lender of Last Resort: An Analysis of the Evolving Role of Central Banks as Liquidity Providers in Times of Crisis**
+{: .paper__title}
+
+*BSc thesis, Faculty of Economics, UNAM, 2024. Advisor: Carlo Panico.*
+{: .paper__meta}
+
+<div class="fig fig--wide">
+  <img src="{{ '/images/papers/llr-1.jpg' | relative_url }}" alt="Cornhill, Lombard Street and King William Street, looking east, 1837" loading="lazy">
+  <!-- To enable hover-swap, add second image at /images/papers/llr-2.jpg and uncomment:
+    <img class="alt" src="{{ '/images/papers/llr-2.jpg' | relative_url }}" alt="..." loading="lazy">
+    <div class="cue">Hover</div>
+  -->
+</div>
+
+Cornhill, Lombard Street and King William Street, looking east, 1837. [Claxity images](https://claxity.com/lombard-street/){:target="_blank"}.
+{: .credit}
+
+<details><summary>Abstract</summary>
+<div class="abstract" markdown="1">
+This thesis traces the historical evolution of the lender of last resort function of central banks, from its conceptual origins to its exercise during the Global Financial Crisis. Using a historical-institutional approach based on documentary review and statistical evidence, it examines three episodes: the Bank of England in the nineteenth century, read through Baring, Thornton and Bagehot; the Federal Reserve during the Great Depression, whose preventive legislative design and decentralized structure constrained its response; and the post-2007 interventions of the Fed, the Bank of England and the ECB, compared measure by measure against the classical doctrine. The central finding is that the function follows no fixed prescription; it adapts to the institutional setting and to the specific features of each crisis. The modern lender of last resort has assumed markedly broader responsibilities (rate cuts, asset purchases, dedicated liquidity facilities, foreign-currency provision, market-making), with implications for moral hazard, too-big-to-fail, stigma, constructive ambiguity and international cooperation.
+</div>
+</details>
+
+*Defended with distinction (Mención Honorífica).*
+{: .paper__award}
+
+[Full text](https://ru.dgb.unam.mx/items/cc090243-6db2-49d0-970a-c9acce50468d){:target="_blank"} (es) · [Defense presentation (PDF)]({{ '/documents/llr_defense.pdf' | relative_url }}){:target="_blank"} (es)
+{: .paper__links}
+
+</div>
+
 <div class="sechead" id="working-papers"><span class="seclabel">Working Papers</span></div>
 
 <div class="paper" markdown="1">
@@ -147,37 +179,5 @@ The distributive profile of an economic crisis is an empirical question that dep
 
 Media: [Gaceta UNAM](https://www.gaceta.unam.mx/entregan-el-premio-ifigenia-martinez/){:target="_blank"} (es) · [El Colegio de México](https://www.linkedin.com/posts/ceecolmex_ceecolmex-econom%C3%ADa-investigaci%C3%B3n-activity-7463265450144075776-q6Bs/){:target="_blank"} (es)
 {: .paper__media}
-
-</div>
-
-<div class="paper" markdown="1">
-**The Modern Lender of Last Resort: An Analysis of the Evolving Role of Central Banks as Liquidity Providers in Times of Crisis**
-{: .paper__title}
-
-*BSc thesis, Faculty of Economics, UNAM, 2024. Advisor: Carlo Panico.*
-{: .paper__meta}
-
-<div class="fig fig--wide">
-  <img src="{{ '/images/papers/llr-1.jpg' | relative_url }}" alt="Cornhill, Lombard Street and King William Street, looking east, 1837" loading="lazy">
-  <!-- To enable hover-swap, add second image at /images/papers/llr-2.jpg and uncomment:
-    <img class="alt" src="{{ '/images/papers/llr-2.jpg' | relative_url }}" alt="..." loading="lazy">
-    <div class="cue">Hover</div>
-  -->
-</div>
-
-Cornhill, Lombard Street and King William Street, looking east, 1837. [Claxity images](https://claxity.com/lombard-street/){:target="_blank"}.
-{: .credit}
-
-<details><summary>Abstract</summary>
-<div class="abstract" markdown="1">
-This thesis traces the historical evolution of the lender of last resort function of central banks, from its conceptual origins to its exercise during the Global Financial Crisis. Using a historical-institutional approach based on documentary review and statistical evidence, it examines three episodes: the Bank of England in the nineteenth century, read through Baring, Thornton and Bagehot; the Federal Reserve during the Great Depression, whose preventive legislative design and decentralized structure constrained its response; and the post-2007 interventions of the Fed, the Bank of England and the ECB, compared measure by measure against the classical doctrine. The central finding is that the function follows no fixed prescription; it adapts to the institutional setting and to the specific features of each crisis. The modern lender of last resort has assumed markedly broader responsibilities (rate cuts, asset purchases, dedicated liquidity facilities, foreign-currency provision, market-making), with implications for moral hazard, too-big-to-fail, stigma, constructive ambiguity and international cooperation.
-</div>
-</details>
-
-*Defended with distinction (Mención Honorífica).*
-{: .paper__award}
-
-[Defense presentation (PDF)]({{ '/documents/llr_defense.pdf' | relative_url }}){:target="_blank"} (es)
-{: .paper__links}
 
 </div>
