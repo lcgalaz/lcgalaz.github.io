@@ -5,45 +5,36 @@ filename: teaching
 order: 2
 ---
 
-<div class="sechead"><span class="seclabel">El Colegio de México</span></div>
+<div class="sechead">
+  <span class="seclabel">El Colegio de México (ColMex)</span>
+  <span class="secyear">2025–2026</span>
+</div>
 
 <div class="paper" markdown="1">
-**Macroeconomics I** (graduate level)
+**Teaching Assistant — Macroeconomics I** (graduate level)
 {: .paper__title}
 
-*Teaching Assistant to Gerardo Esquivel, 2025–2026.*
+*With Gerardo Esquivel.*
 {: .paper__meta}
 
-- Led weekly complementary laboratory sessions for a master's cohort of 20 students.
+- Led weekly complementary laboratory sessions (scheduled separately from the main course) for a master's cohort of 20 students.
 - Designed all supporting materials.
-
-<!-- Add materials line when ready, following the .paper__links pattern used elsewhere:
-[Lecture notes (PDF)](url){:target="_blank"} · [Problem set 1 (PDF)](url){:target="_blank"} · [Slides](url){:target="_blank"}
-{: .paper__links}
--->
 
 </div>
 
-<div class="sechead"><span class="seclabel">Universidad Nacional Autónoma de México (UNAM)</span></div>
+<div class="sechead">
+  <span class="seclabel">Universidad Nacional Autónoma de México (UNAM)</span>
+  <span class="secyear">2022–Present</span>
+</div>
 
 <div class="paper" markdown="1">
-**Macroeconomics I–II · Monetary Theory · Monetary Policy** (undergraduate)
+**Head Teaching Assistant — Macroeconomics I–II, Monetary Theory, and Monetary Policy**
 {: .paper__title}
 
-*Head Teaching Assistant, 2022–present. Macroeconomics with Gerardo Esquivel; Monetary Theory and Policy with Carlo Panico.*
+*Macroeconomics with Gerardo Esquivel; Monetary Theory and Policy with Carlo Panico.*
 {: .paper__meta}
 
-- Approximately 45 students per semester.
-- Deliver primary lectures on delegated units.
-- Design teaching materials and supervise junior teaching assistants.
+- Cover the undergraduate Macroeconomics (I–II) and Monetary Economics (Theory, Policy) sequences with approximately 45 students per semester; deliver primary lectures on delegated units during regular class meetings; design all teaching materials and supervise multiple junior teaching assistants.
 - Hold regular office hours, including informal advising for current and former students.
-
-<!-- Add materials line when ready. If materials are course-specific, group with bold labels:
-**Macroeconomics I–II.** [Notes (PDF)](url) · [Problem set](url)
-{: .paper__links}
-
-**Monetary Theory.** [Slides](url)
-{: .paper__links}
--->
 
 </div>
