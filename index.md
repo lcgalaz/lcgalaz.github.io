@@ -11,7 +11,7 @@ I am a **Research Economist at the Mexican central bank** ([Banco de México](ht
 
 I am interested in **macroeconomics, financial stability, and economic history**. Focusing on Mexico, I have studied how financial variables shape the real economy and help us detect the build-up of a crisis, and how crises then propagate and affect households unevenly across the income distribution.
 
-**I am applying to PhD programs in Economics for the 2027 entry cycle.** For that purpose, I was awarded the **Fulbright–García Robles Fellowship** for doctoral studies in the United States. I am especially drawn to macro-finance questions that combine rigorous empirical methods with the construction of new data.
+**I am applying to PhD programs in Economics for the 2027 entry cycle.** For that purpose, I was awarded the **Fulbright–García Robles Fellowship** for doctoral studies in the United States.
 
 <a class="cv-btn" href="{{ '/documents/CV_Camila_Galaz.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV (PDF)</a>
 
